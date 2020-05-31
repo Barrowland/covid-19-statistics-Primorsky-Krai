@@ -146,6 +146,11 @@
 {"date_value": "2020-05-23", "confirmed": 1595, "sick": 996, "mortality": 15, "recovered": 584},
 {"date_value": "2020-05-24", "confirmed": 1646, "sick": 1021, "mortality": 15, "recovered": 610},
 {"date_value": "2020-05-25", "confirmed": 1695, "sick": 1063, "mortality": 15, "recovered": 617},
-{"date_value": "2020-05-26", "confirmed": 1735, "sick": 1012, "mortality": 17, "recovered": 706}
+{"date_value": "2020-05-26", "confirmed": 1735, "sick": 1012, "mortality": 17, "recovered": 706},
+{"date_value": "2020-05-27", "confirmed": 1779, "sick": 964, "mortality": 17, "recovered": 798},
+{"date_value": "2020-05-28", "confirmed": 1836, "sick": 934, "mortality": 17, "recovered": 885},
+{"date_value": "2020-05-29", "confirmed": 1893, "sick": 930, "mortality": 18, "recovered": 945},
+{"date_value": "2020-05-30", "confirmed": 1943, "sick": 877, "mortality": 19, "recovered": 1047},
+{"date_value": "2020-05-31", "confirmed": 1943, "sick": 877, "mortality": 19, "recovered": 1047}
 ]
 }
