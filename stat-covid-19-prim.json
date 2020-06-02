@@ -151,6 +151,8 @@
 {"date_value": "2020-05-28", "confirmed": 1836, "sick": 934, "mortality": 17, "recovered": 885},
 {"date_value": "2020-05-29", "confirmed": 1893, "sick": 930, "mortality": 18, "recovered": 945},
 {"date_value": "2020-05-30", "confirmed": 1943, "sick": 877, "mortality": 19, "recovered": 1047},
-{"date_value": "2020-05-31", "confirmed": 1943, "sick": 877, "mortality": 19, "recovered": 1047}
+{"date_value": "2020-05-31", "confirmed": 1995, "sick": 883, "mortality": 19, "recovered": 1093},
+{"date_value": "2020-06-01", "confirmed": 1995, "sick": 952, "mortality": 19, "recovered": 1078},
+{"date_value": "2020-06-02", "confirmed": 1995, "sick": 924, "mortality": 19, "recovered": 1160}
 ]
 }
